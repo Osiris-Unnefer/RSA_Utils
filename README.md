@@ -25,3 +25,7 @@ N = p*q
 d × e ≡ 1 mod φ(n)
 M = C^d modulo n
 C = M^e modulo n
+
+
+
+I have many other tools that I would make presentable for the additions after, such as decryptors with or without padding, a private key setting and others
