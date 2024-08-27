@@ -5,7 +5,7 @@ print(f"\n\n\n\n\n\n\n\n\n\n\n\n\n   Created by Osiris_Unnefer \n\nhttps://githu
 
 e = int(input("e -> " ))
 p = int(input("p -> " ))
-q = int(input(" q -> " ))
+q = int(input("q -> " ))
 
 
 #calculs
